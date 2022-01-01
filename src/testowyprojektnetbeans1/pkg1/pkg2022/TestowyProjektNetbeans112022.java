@@ -16,6 +16,8 @@ public class TestowyProjektNetbeans112022 {
      */
     public static void main(String[] args) {
     //to jest zapis pierwszy testowy komentarz
+    
+    //teraz dodaję kolejny testowy konmentarz w pliku java
     }
     
 }
