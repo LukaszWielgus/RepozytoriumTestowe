@@ -20,6 +20,7 @@ public class TestowyProjektNetbeans112022 {
     //teraz dodaję kolejny testowy konmentarz w pliku java
         
         //trzeci komentarz dodany w gicie na serwerze przez www
+        //CZWARTY COMMIT
     }
     
 }
